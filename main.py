@@ -1,5 +1,5 @@
 print("Hello World") # Prints "Hello World"
-# This is a comment
+
 # I want to read a txt file
 def readtxt():
     with open("test.txt", "r") as f:
